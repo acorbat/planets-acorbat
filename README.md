@@ -10,7 +10,8 @@ pip install planets-acorbat
 
 ## Usage
 
-```python planets.py
+```
+python planets.py
 
 # returns 'success'
 ```
